@@ -2,7 +2,8 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-    "homepage": "https://rajhansh-qu.github.io/resume-desk"  "dependencies": {
+    "homepage": "https://rajhansh-qu.github.io/resume-desk",
+  "dependencies": {
     "@fontsource/inter": "^5.2.8",
     "@fontsource/playfair-display": "^5.2.8",
     "@react-pdf/renderer": "^4.5.1",
