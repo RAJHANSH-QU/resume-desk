@@ -91,7 +91,6 @@ export default function CreativeTemplate({ data = sampleData, onPhotoClick }) {
   const textMid = "#333";
   const textMuted = "#666";
 
-  const initials = `${personal.firstName?.[0] ?? ""}${personal.lastName?.[0] ?? ""}`.toUpperCase();
 
   return (
     <div
