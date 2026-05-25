@@ -80,7 +80,6 @@ export default function ExecutiveTemplate({ data = sampleData }) {
   const interestList = interests?.list ? interests.list.split("\n").filter(Boolean) : [];
 
   const gold = "#b8922a";
-  const goldLight = "#f9f3e7";
   const navy = "#1b2a4a";
   const navyLight = "#edf0f6";
   const border = "#d8cdb5";
